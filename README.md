@@ -19,7 +19,7 @@ Criação de um endpoint de machine learning na azure.
 
 ### Exemplo de entrada
 
-ˋˋˋJson
+```json
 
  {
    "Inputs": { 
@@ -43,16 +43,16 @@ Criação de um endpoint de machine learning na azure.
    "GlobalParameters": 1.0
  }
 
-ˋˋˋ
+```
 
 
 ### Exemplo de saída
 
 
-ˋˋˋJson
+```json
 {
   "Results": [
     361.70271965673726
   ]
 }
-ˋˋˋ
+```
